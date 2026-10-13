@@ -12,6 +12,7 @@ pub mod aroon;
 pub mod aroonosc;
 pub mod atr;
 pub mod bbands;
+pub mod breakout;
 pub mod candlestick;
 pub mod ccfisher;
 pub mod cci;

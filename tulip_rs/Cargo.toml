@@ -747,3 +747,7 @@ path = "examples/indicators/ti_supersmoother_example.rs"
 [[example]]
 name = "ti_trendmode_example"
 path = "examples/indicators/ti_trendmode_example.rs"
+
+[[example]]
+name = "ti_breakout_example"
+path = "examples/indicators/ti_breakout_example.rs"

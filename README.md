@@ -171,7 +171,7 @@ C implementation (Tulip Indicators) and TA-Lib across 8 real market symbols.
 |---|---|
 | **Moving Averages** | SMA, EMA, WMA, DEMA, TEMA, TRIMA, HMA, ZLEMA, KAMA, VIDYA, VWMA, Wilders, SMA Envelope |
 | **Oscillators** | RSI, MACD, Stochastic, StochRSI, Williams %R, CCI, CMO, Ultimate Oscillator, AO, Fisher Transform, FOSC, MSW, TRIX |
-| **Trend** | ADX, ADXR, DI, DM, DX, Aroon, Aroon Osc, PSAR, PPO, APO, Vortex, Elder-Ray, Donchian Channel, Ichimoku, SuperTrend, Efficiency Ratio, MAMA |
+| **Trend** | ADX, ADXR, DI, DM, DX, Aroon, Aroon Osc, PSAR, PPO, APO, Vortex, Elder-Ray, Donchian Channel, Breakout, Ichimoku, SuperTrend, Efficiency Ratio, MAMA |
 | **Volatility** | BBands, ATR, NATR, TR, StdDev, Volatility, VHF, CVI, Chandelier Exit, Keltner Channel, TRVI |
 | **Volume** | AD, ADOSC, OBV, MFI, NVI, PVI, VOSC, KVO, EMV, WAD, MarketFi, ChaikinMF, VWAP |
 | **Price & Statistical** | AvgPrice, MedPrice, TypPrice, WCPrice, Max, Min, MOM, ROC, ROCR, BOP, LinReg, TSF, DPO, Mass, MD, QStick, PivotPoint |

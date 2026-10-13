@@ -88,6 +88,7 @@ nav:
                 - PSAR: indicators/trend/psar.md
                 - Elder-Ray: indicators/trend/elderray.md
                 - Donchian Channel: indicators/trend/donchianchannel.md
+                - Breakout: indicators/trend/breakout.md
                 - Vortex: indicators/trend/vortex.md
                 - Ichimoku: indicators/trend/ichimoku.md
                 - SuperTrend: indicators/trend/supertrend.md
